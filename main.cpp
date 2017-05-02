@@ -13,7 +13,7 @@ int DISPLAY_WIDTH = 720;
 int DISPLAY_HEIGHT=420;
 
 char MODEL_FILE[] = "../caffe-ssd/models/VGGNet/VOC0712/SSD_300x300/deploy.prototxt";
-char WEIGHT_FILE[] = "../caffe-ssd/models/VGGNet/VOC0712/SSD_300x300/VGG_VOC0712_SSD_300x300_iter_120000.caffemodel";
+char WEIGHT_FILE[] = "../caffe-ssd/models/VGGNet/VOC0712/SSD_300x300/VGG_VOC0712_SSD_300x300_iter_2088.caffemodel";
 char MEAN_FILE[]="";
 char MEAN_VALUE[]="104,117,123";
 float CONF_THRESH = 0.4;
